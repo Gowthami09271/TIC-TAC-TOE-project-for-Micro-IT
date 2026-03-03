@@ -1,1 +1,1 @@
-# TIC-TAC-TOE-project-for-Micro-IT
+# TIC-TAC-TOE-project
